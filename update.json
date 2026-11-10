@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "appIdentifier": "com.dobbexhex.ios",
-  "latestVersion": "3.0",
+  "latestVersion": "3.1",
   "latestBuild": 300,
   "minimumSupportedBuild": 200,
   "isMandatory": false,
