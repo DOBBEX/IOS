@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "appIdentifier": "YOUR_REAL_BUNDLE_IDENTIFIER",
+  "latestVersion": "2.0",
+  "latestBuild": 200,
+  "minimumSupportedBuild": 200,
+  "isMandatory": false,
+  "ipaURL": "https://github.com/DOBBEX/IOS/raw/main/DOBBEX_HEX.ipa",
+  "sha256": "YOUR_REAL_SHA256_HASH",
+  "fileSizeBytes": 12000000,
+  "title": "DOBBEX HEX Update",
+  "releaseNotes": [
+    "Improved performance",
+    "Fixed existing bugs",
+    "Enhanced security"
+  ],
+  "publishedAt": "2026-11-10T08:00:00Z"
+}
