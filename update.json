@@ -3,7 +3,7 @@
   "appIdentifier": "com.dobbexhex.ios",
   "latestVersion": "3.1",
   "latestBuild": 300,
-  "minimumSupportedBuild": 200,
+  "minimumSupportedBuild": 300,
   "isMandatory": false,
   "ipaURL": "https://raw.githubusercontent.com/DOBBEX/IOS/main/DOBBEX_HEX.ipa",
   "sha256": "3541c69994a520752d844537fcb896aa0be6409a939d828fc7b482637211e72c",
