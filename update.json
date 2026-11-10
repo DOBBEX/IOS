@@ -1,18 +1,20 @@
 {
   "schemaVersion": 1,
-  "appIdentifier": "YOUR_REAL_BUNDLE_IDENTIFIER",
+  "appIdentifier": "com.dobbexhex.ios",
   "latestVersion": "2.0",
   "latestBuild": 200,
   "minimumSupportedBuild": 200,
   "isMandatory": false,
-  "ipaURL": "https://github.com/DOBBEX/IOS/raw/main/DOBBEX_HEX.ipa",
-  "sha256": "YOUR_REAL_SHA256_HASH",
-  "fileSizeBytes": 12000000,
-  "title": "DOBBEX HEX Update",
+  "ipaURL": "https://raw.githubusercontent.com/DOBBEX/IOS/main/DOBBEX_HEX.ipa",
+  "sha256": "af24858a346d153a56ab6dc8b82a6afdb4122205b7bbc09ab7dd197c1fd263d9",
+  "fileSizeBytes": 2054560,
+  "title": "DOBBEX HEX 2.0 Pure Native iOS Release",
   "releaseNotes": [
-    "Improved performance",
-    "Fixed existing bugs",
-    "Enhanced security"
+    "Transitioned to 100% pure native monolithic ARM64 iOS Swift architecture",
+    "Direct GitHub-powered Over-The-Air (OTA) update system",
+    "Built-in ESign and Sideloadly native installer hand-off workflows",
+    "Real-time streaming package downloader with progress, speed, and integrity verification",
+    "CryptoKit SHA-256 package verification with zero browser requirement"
   ],
-  "publishedAt": "2026-11-10T08:00:00Z"
+  "publishedAt": "2026-11-10T12:00:00Z"
 }
